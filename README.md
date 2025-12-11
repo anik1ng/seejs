@@ -31,6 +31,9 @@ Code runs in an isolated Web Worker with 3-second timeout. Infinite loops won't 
 ### 💾 Auto-Save
 Your code is automatically saved to local storage. Come back anytime and continue where you left off.
 
+### 🔗 Share Code
+Share your code with a single click. Every snippet gets a unique URL you can send to anyone.
+
 ### 🆓 Forever
 No sign-up, no payment, no limits. Just open and start coding right in your browser.
 
